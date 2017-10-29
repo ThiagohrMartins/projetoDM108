@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501410364505",
+    "firebase_url": "https://projetodm108.firebaseio.com",
+    "project_id": "projetodm108",
+    "storage_bucket": "projetodm108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501410364505:android:28c51934a6b80851",
+        "android_client_info": {
+          "package_name": "org.thiagomartins.projetoDM108"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501410364505-dq1hlrb4ukuahtvop1ngkojbr4lv0qqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseyHqtg4aG001LZjMyAmIeTYeKDwKUck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
